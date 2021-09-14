@@ -7,5 +7,5 @@ null,
 {"id":5,"expanded":false,"name":"ピクチャテスト","order":8,"parentId":2,"scrollX":699,"scrollY":446},
 {"id":6,"expanded":false,"name":"本編","order":2,"parentId":1,"scrollX":832,"scrollY":640},
 {"id":7,"expanded":false,"name":"GAME OVER","order":3,"parentId":1,"scrollX":699,"scrollY":446},
-{"id":8,"expanded":false,"name":"END","order":4,"parentId":1,"scrollX":0,"scrollY":0}
+{"id":8,"expanded":false,"name":"END","order":4,"parentId":1,"scrollX":699,"scrollY":446}
 ]
