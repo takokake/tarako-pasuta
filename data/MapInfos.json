@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":699,"scrollY":446},
-{"id":2,"expanded":true,"name":"デバッグモード","order":5,"parentId":0,"scrollX":699,"scrollY":446},
+{"id":2,"expanded":true,"name":"デバッグモード","order":5,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":false,"name":"管理者モード","order":6,"parentId":2,"scrollX":578,"scrollY":367.5},
 {"id":4,"expanded":false,"name":"サウンドテスト","order":7,"parentId":2,"scrollX":699,"scrollY":446},
 {"id":5,"expanded":false,"name":"ピクチャテスト","order":8,"parentId":2,"scrollX":699,"scrollY":446},

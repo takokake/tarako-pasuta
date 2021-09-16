@@ -18,5 +18,6 @@ var $plugins =
 {"name":"KMS_QuickNotification","status":true,"description":"[v0.1.1] ポップアップ通知を表示する機能を追加します。","parameters":{"Display duration":"180","Display position":"1","Face image size":"64","Font size":"30","Max notification count":"4","Notification SE":"","Notification SE param":"100, 50","Notification skin":"Window"}},
 {"name":"DisableFastForward","status":true,"description":"イベント高速化禁止プラグイン","parameters":{}},
 {"name":"OriginalTimer","status":true,"description":"オリジナルタイマー","parameters":{"TimerSave":"NO"}},
-{"name":"InputTableSelect","status":true,"description":"ver1.00 変数の値によって名前入力用の\r\n切り替え可能なテーブルに制限をかけます。","parameters":{"select":"10"}}
+{"name":"InputTableSelect","status":true,"description":"ver1.00 変数の値によって名前入力用の\r\n切り替え可能なテーブルに制限をかけます。","parameters":{"select":"10"}},
+{"name":"ChangeMapTouchPolicy","status":true,"description":"マップタッチ仕様変更プラグイン","parameters":{"initPolicyLevel":"1","invalidForceDash":"false"}}
 ];
