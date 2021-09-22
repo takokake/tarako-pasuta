@@ -5,7 +5,7 @@ null,
 {"id":3,"expanded":false,"name":"管理者モード","order":6,"parentId":2,"scrollX":578,"scrollY":367.5},
 {"id":4,"expanded":false,"name":"サウンドテスト","order":7,"parentId":2,"scrollX":699,"scrollY":446},
 {"id":5,"expanded":false,"name":"ピクチャテスト","order":8,"parentId":2,"scrollX":699,"scrollY":446},
-{"id":6,"expanded":false,"name":"本編","order":2,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"本編","order":2,"parentId":1,"scrollX":699,"scrollY":446},
 {"id":7,"expanded":false,"name":"GAME OVER","order":3,"parentId":1,"scrollX":699,"scrollY":446},
 {"id":8,"expanded":false,"name":"END","order":4,"parentId":1,"scrollX":699,"scrollY":446}
 ]
