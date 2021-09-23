@@ -20,5 +20,5 @@ var $plugins =
 {"name":"OriginalTimer","status":true,"description":"オリジナルタイマー","parameters":{"TimerSave":"NO"}},
 {"name":"InputTableSelect","status":true,"description":"ver1.00 変数の値によって名前入力用の\r\n切り替え可能なテーブルに制限をかけます。","parameters":{"select":"10"}},
 {"name":"ChangeMapTouchPolicy","status":true,"description":"マップタッチ仕様変更プラグイン","parameters":{"initPolicyLevel":"1","invalidForceDash":"false"}},
-{"name":"AudioStreaming","status":true,"description":"音声読み込みを高速化し、oggファイルのみを使用します。","parameters":{"mode":"10","deleteM4a":"false"}}
+{"name":"AudioStreaming","status":true,"description":"音声読み込みを高速化し、oggファイルのみを使用します。","parameters":{"mode":"10","deleteM4a":"true"}}
 ];
